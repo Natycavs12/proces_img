@@ -53,6 +53,7 @@ procesamiento_imagenes/
 └── README.md
 
 
+```
 ---
 
 # Cómo usar el programa

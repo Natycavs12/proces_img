@@ -53,17 +53,15 @@ procesamiento_imagenes/
 └── README.md
 
 
+---
+
 # Cómo usar el programa
 
-Para ejecutar el programa, se debe abrir la terminal y pasarle como argumento obligatorio la ruta de la imagen. También se pueden modificar los parámetros de los filtros de forma opcional.
-
-### Ejemplo de uso básico:
-
-```bash
-python main.py img_input/tu_imagen.jpg
-
-```
-
-
+- Abrir la terminal en la carpeta del proyecto.
+- Ejecutar el comando principal indicando la ruta de la imagen:
+  `python main.py imagen.jpg --kernel 5 --umbral1 100 --umbral2 200`
+- Observar el diagnóstico estadístico que aparecerá en la pantalla.
+- Seleccionar un número del menú (1 al 7) para elegir qué filtro aplicar.
+- Buscar la imagen procesada final dentro de la carpeta `img_output/`.
 
 

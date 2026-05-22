@@ -1,6 +1,3 @@
----
-
-```markdown
 # Procesamiento de Imágenes con Python, Pillow, OpenCV, Pathlib y Rembg
 
 ## Integrantes del equipo
